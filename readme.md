@@ -2,7 +2,7 @@ NG-WEB
 =====
 
 Basada en:
-[Guia para estructura de carpetass](https://scotch.io/tutorials/angularjs-best-practices-directory-structure)
+[Guia para estructura de carpetas](https://scotch.io/tutorials/angularjs-best-practices-directory-structure)
 
 View links:
 
